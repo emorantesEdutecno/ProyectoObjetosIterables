@@ -185,7 +185,6 @@ let otroWeakset = new WeakSet(['x','y','x','y','z']);
 console.log(otroWeakset);
 */
 
-
 let juan = {
     nombre: 'Juan Diaz',
     correo: 'juan@gmail.com',
